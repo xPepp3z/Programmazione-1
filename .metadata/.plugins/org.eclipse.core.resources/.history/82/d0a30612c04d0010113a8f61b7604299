@@ -1,0 +1,14 @@
+package es_overloading_list;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Carrello c1 = new Carrello();
+		
+		System.out.println(c1.nome);
+		
+		
+	}
+
+}
