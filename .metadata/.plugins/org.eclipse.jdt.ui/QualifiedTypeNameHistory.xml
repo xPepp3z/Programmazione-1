@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
+    <fullyQualifiedTypeName name="jdk.javadoc.internal.doclets.toolkit.util.JavaScriptScanner"/>
+    <fullyQualifiedTypeName name="esercitazioni_personali.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.NoSuchMethodError"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xml.internal.dtm.ref.ExpandedNameTable"/>
+    <fullyQualifiedTypeName name="classi_scuola.Studenti"/>
+    <fullyQualifiedTypeName name="classi_netflix.Contenuto"/>
+    <fullyQualifiedTypeName name="classi_netflix.Film"/>
+    <fullyQualifiedTypeName name="java.io.IOError"/>
+    <fullyQualifiedTypeName name="classi_netflix.serieTV"/>
+    <fullyQualifiedTypeName name="arraylist_stringhe.arraylist_classi"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="arraylist_classi.arraylist_classi"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="java.text.Format"/>
+    <fullyQualifiedTypeName name="sun.text.resources.cldr.ext.FormatData_ro_MD"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="abstract_es.Cerchio"/>
+    <fullyQualifiedTypeName name="abstract_es.Rettangolo"/>
+    <fullyQualifiedTypeName name="sun.java2d.loops.DrawGlyphListAA"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="es_animali.Cane"/>
+    <fullyQualifiedTypeName name="es_animali.Gatto"/>
+    <fullyQualifiedTypeName name="es_animali.Rifugio"/>
+    <fullyQualifiedTypeName name="es_animali.Animale"/>
+    <fullyQualifiedTypeName name="arraylist_classi.prodotti"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="es_permessi.Utente"/>
+    <fullyQualifiedTypeName name="es_permessi.Admin"/>
+    <fullyQualifiedTypeName name="es_permessi.GestioneUtenti"/>
+    <fullyQualifiedTypeName name="com.sun.media.sound.SoftMixingMainMixer"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="es_overloading.Calcolatrice"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

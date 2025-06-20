@@ -1,0 +1,12 @@
+package es_animali;
+
+public class CaneGatto extends Animale {
+	
+	
+
+	public CaneGatto(String nome) {
+		super(nome);
+		
+	}
+	
+}
