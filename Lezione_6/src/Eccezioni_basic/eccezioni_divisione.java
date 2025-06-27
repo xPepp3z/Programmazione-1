@@ -19,8 +19,9 @@ public class eccezioni_divisione {
 			System.out.println("Risultato: " +divisione);
 		} catch (Exception e) {
 			System.out.println("Non puoi dividere per 0!");
+		} finally {
+			input.close();
 		}
-		
 
 	}
 
