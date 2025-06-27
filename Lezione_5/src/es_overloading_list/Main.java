@@ -8,7 +8,7 @@ public class Main {
 		
 		c1.aggiungiProdotto("Gocciole");	
 		
-		c1.aggiungiProdotto("Pasta", 21);
+		c1.aggiungiProdotto("Pasta ", 21);
 		
 	}
 
