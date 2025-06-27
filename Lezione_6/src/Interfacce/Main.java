@@ -7,8 +7,8 @@ public class Main {
 		Auto_Ibrida a1 = new Auto_Ibrida(70);
 		
 		
-		a1.disconnetti();
-		
+		a1.connetti();
+		//ai.disconnetti;
 		System.out.println("Siamo connessi? " +a1.isConnesso());
 		a1.caricaAttuale();	
 		a1.ricarica();
