@@ -2,7 +2,7 @@ package Eccezioni_basic;
 
 import java.util.Scanner;
 
-public class eccezioni_array {
+public class eccezioni_array {				
 
 	public static void main(String[] args) {
 		String[] nomi = {"Paolo", "Jessica", "Giuseppe", "Maria"};
@@ -23,3 +23,5 @@ public class eccezioni_array {
 	}
 
 }
+
+//questo tipo di ecccezioni con gli array vengono impostate quando un array ha solitamente dimensione fissa e potrebbe portare il programma in crash
