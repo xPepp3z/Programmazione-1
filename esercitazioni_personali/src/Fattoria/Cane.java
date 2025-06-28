@@ -1,0 +1,16 @@
+package Fattoria;
+
+public class Cane extends Animale{
+	
+	public Cane(String nome) {
+		super(nome);
+		
+	}
+
+	@Override
+	public void emettiverso() {
+		System.out.println("Bau");
+		
+	}
+	
+}

@@ -8,11 +8,11 @@ public class Main {
 		Libro l1 = new Libro("Il palazzo nero", "Mario Rossi", "22424", true);
 		Utente u1 = new Utente("Giuseppe", "0309");
 		
-		System.out.println("è disponibile?" +l1.isDisponibile());
+		l1.stampaDettagli();
 		b1.aggiungiLibro(l1);
 		u1.aggiungiUtente(u1);
 		u1.prendiInPrestito(l1);
-		System.out.println("è disponibile?" +l1.isDisponibile());
+		l1.stampaDettagli();
 		
 	}
 
